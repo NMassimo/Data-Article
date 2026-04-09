@@ -1,0 +1,8 @@
+font.size:    9.0
+font.family: serif
+font.serif: Palatino
+axes.labelsize: 11
+axes.titlesize: 12
+figure.titlesize: 12
+text.usetex: True
+text.latex.preamble: \usepackage{amsmath}\usepackage{amssymb}\usepackage{siunitx}[=v2]

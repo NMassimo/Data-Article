@@ -1,0 +1,27 @@
+address,device_name,device_type
+00:12:4B:00:1C:DD:05:D1,Raspberry Coord,Coordinator
+0x0000,Raspberry Coord,Coordinator
+40:4C:CA:FF:FE:57:71:14,ESPZB1light,Light
+0x62a4,ESPZB1light,Light
+40:4C:CA:FF:FE:57:6F:CC,ESPZB2light,Light
+0x3865,ESPZB2light,Light
+40:4C:CA:FF:FE:57:6B:7C,ESPZB3light,Light
+0x01c9,ESPZB3light,Light
+40:4C:CA:FF:FE:57:64:58,ESPZB4sensor,Sensor
+0xd723,ESPZB4sensor,Sensor
+40:4C:CA:FF:FE:48:DD:BC,ESPZB5sensor,Sensor
+0xfef4,ESPZB5sensor,Sensor
+40:4C:CA:FF:FE:49:5D:00,ESPZB6sensor,Sensor
+0x6871,ESPZB6sensor,Sensor
+00:15:8D:00:09:F4:11:F3,AqaraMagnet,Sensor
+0x9f51,AqaraMagnet,Sensor
+00:15:8D:00:09:E1:93:30,AqaraVibration,Sensor
+0x2017,AqaraVibration,Sensor
+00:17:88:01:0F:2E:F7:B6,HueWhite1549,Light
+0xa595,HueWhite1549,Light
+00:17:88:01:0F:35:12:75,HueWhite0475,Light
+0xb45f,HueWhite0475,Light
+00:17:88:01:06:E3:0A:CB,Hue9GF,Light
+0x5193,Hue9GF,Light
+00:17:88:01:08:29:FA:29,Hue9L7,Light
+0x637c,Hue9L7,Light

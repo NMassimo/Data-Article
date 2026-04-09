@@ -1,0 +1,27 @@
+address,device_name,device_type
+e2:f7:ef:32:aa:9a:c4:74,Raspberry OTBR,OTBR
+0x3c00,Raspberry OTBR,OTBR
+e6:14:bc:0b:17:6d:9c:88,ESP1light,Light
+0x0c00,ESP1light,Light
+22:c9:65:73:69:09:f1:eb,ESP2light,Light
+0xa000,ESP2light,Light
+56:76:f6:0a:c0:0a:49:89,ESP3light,Light
+0xb400,ESP3light,Light
+9e:59:6e:0b:b1:6a:57:35,ESP4sensor,Sensor
+0xa007,ESP4sensor,Sensor
+6e:e9:1b:23:48:76:6c:d5,ESP5sensor,Sensor
+0xa005,ESP5sensor,Sensor
+ee:9b:03:d8:b7:12:db:5d,ESP6sensor,Sensor
+0xa006,ESP6sensor,Sensor
+c6:8c:58:1b:d5:5e:d4:89,AqaraDoor,Sensor
+0x3c03,AqaraDoor,Sensor
+a6:a4:53:ab:3e:30:7e:06,AqaraMotion,Sensor
+0xa008,AqaraMotion,Sensor
+56:92:c4:a5:23:e0:f7:6c,HueWhite1549,Light
+0xf000,HueWhite1549,Light
+5e:b8:2c:c9:19:38:8f:d1,HueWhite0475,Light
+0xd000,HueWhite0475,Light
+f6:9d:0a:73:00:b9:5e:30,Nanoleaf0176,Light
+0x5000,Nanoleaf0176,Light
+1e:e4:8d:4c:6e:c8:0c:d3,Nanoleaf1624,Light
+0x4800,Nanoleaf1624,Light

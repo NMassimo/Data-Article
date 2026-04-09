@@ -1,0 +1,2433 @@
+{
+  "00:12:4b:00:1c:dd:05:d1": {
+    "routes": [
+      {
+        "destination": "0x62a4",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x5193",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xa595",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x01c9",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xfef4",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x6871",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x637c",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xaa7e",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:15:8d:00:09:e1:93:30",
+        "nwk": "0x2017",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 69
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:15:8d:00:09:f4:11:f3",
+        "nwk": "0x9F51",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 5
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 1
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 21
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:f0:74:31",
+        "nwk": "0xE827",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 170
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 1
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 83
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 1
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 1
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Child",
+        "permit_joining": "Unknown",
+        "depth": 1,
+        "lqi": 27
+      }
+    ]
+  },
+  "00:17:88:01:0f:2e:f7:b6": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x5193",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x3865",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 0,
+        "lqi": 7
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 57
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 22
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 12
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:49:5d:00",
+        "nwk": "0x6871",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "NotAccepting",
+        "depth": 2,
+        "lqi": 132
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 37
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 3
+      }
+    ]
+  },
+  "00:17:88:01:0f:35:12:75": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x62a4",
+        "next_hop": "0x62a4",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x01c9",
+        "next_hop": "0x01c9",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x3865",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x6871",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x5193",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xa595",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x637c",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xaa7e",
+        "next_hop": "0x01c9",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 0,
+        "lqi": 138
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 72
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 139
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 16
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:48:dd:bc",
+        "nwk": "0xFEF4",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "NotAccepting",
+        "depth": 2,
+        "lqi": 123
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 55
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 5
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 73
+      }
+    ]
+  },
+  "00:17:88:01:08:29:fa:29": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x5193",
+        "next_hop": "0x5193",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x01c9",
+        "next_hop": "0x01c9",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x5193",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x6871",
+        "next_hop": "0x5193",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xa595",
+        "next_hop": "0x5193",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xaa7e",
+        "next_hop": "0x01c9",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 0,
+        "lqi": 102
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 82
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 65
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 186
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 95
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 35
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 106
+      }
+    ]
+  },
+  "00:17:88:01:06:e3:0a:cb": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x3865",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x6871",
+        "next_hop": "0xa595",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0xa595",
+        "next_hop": "0xa595",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x01c9",
+        "next_hop": "0x01c9",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Inactive",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 0,
+        "lqi": 53
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 84
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 80
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 117
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 45
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 72
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Unknown",
+        "depth": 15,
+        "lqi": 98
+      }
+    ]
+  },
+  "40:4c:ca:ff:fe:57:71:14": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x0000",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      }
+    ]
+  },
+  "40:4c:ca:ff:fe:57:6f:cc": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0xb45f",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6b:7c",
+        "nwk": "0x01C9",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      }
+    ]
+  },
+  "40:4c:ca:ff:fe:57:6b:7c": {
+    "routes": [
+      {
+        "destination": "0x0000",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      },
+      {
+        "destination": "0x3865",
+        "next_hop": "0x637c",
+        "status": "Active",
+        "memory_constrained": false,
+        "many_to_one": false,
+        "route_record_required": false
+      }
+    ],
+    "neighbours": [
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:12:4b:00:1c:dd:05:d1",
+        "nwk": "0x0000",
+        "device_type": "Coordinator",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:06:e3:0a:cb",
+        "nwk": "0x5193",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:08:29:fa:29",
+        "nwk": "0x637C",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:2e:f7:b6",
+        "nwk": "0xA595",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "00:17:88:01:0f:35:12:75",
+        "nwk": "0xB45F",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "Accepting",
+        "depth": 1,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:64:58",
+        "nwk": "0xAA7E",
+        "device_type": "EndDevice",
+        "rx_on_when_idle": "Off",
+        "relationship": "Child",
+        "permit_joining": "NotAccepting",
+        "depth": 2,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:6f:cc",
+        "nwk": "0x3865",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      },
+      {
+        "pan_id": "14:74:01:49:15:a9:ce:0a",
+        "ieee": "40:4c:ca:ff:fe:57:71:14",
+        "nwk": "0x62A4",
+        "device_type": "Router",
+        "rx_on_when_idle": "On",
+        "relationship": "Sibling",
+        "permit_joining": "NotAccepting",
+        "depth": 0,
+        "lqi": 0
+      }
+    ]
+  }
+}
