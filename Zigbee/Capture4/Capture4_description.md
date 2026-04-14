@@ -1,6 +1,6 @@
 # Zigbee
 
-## Capture n4: Full Mesh Topology
+## Capture n4: Topology A
 
 ## Devices
 

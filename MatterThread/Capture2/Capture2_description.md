@@ -1,6 +1,6 @@
 # Matter over Thread
 
-## Capture n2: First Topology
+## Capture n2: Topology B
 
 ## Devices
 

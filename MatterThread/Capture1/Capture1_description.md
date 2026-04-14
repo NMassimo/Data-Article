@@ -1,6 +1,6 @@
 # Matter over Thread
 
-## Capture n1: Full Mesh Topology
+## Capture n1: Topology A
 
 ## Devices
 

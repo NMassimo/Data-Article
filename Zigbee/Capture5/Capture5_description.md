@@ -1,6 +1,6 @@
 # Zigbee
 
-## Capture n5: First Topology
+## Capture n5: Topology B
 
 ## Devices
 

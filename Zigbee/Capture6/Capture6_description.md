@@ -1,6 +1,6 @@
 # Zigbee
 
-## Capture n6: Second Topology
+## Capture n6: Topology C
 
 ## Devices
 

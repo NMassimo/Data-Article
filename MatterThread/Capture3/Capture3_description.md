@@ -1,6 +1,6 @@
 # Matter over Thread
 
-## Capture n3: Second Topology
+## Capture n3: Topology C
 
 ## Devices
 
