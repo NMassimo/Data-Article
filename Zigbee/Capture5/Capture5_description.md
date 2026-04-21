@@ -27,3 +27,7 @@
 ## Zigbee decryption key
 
 05:99:B8:50:29:30:04:41:E8:FC:48:E8:64:C9:8A:DC
+
+## Topology Graph
+
+![Topology Graph](Capture5_graph.svg)

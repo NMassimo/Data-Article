@@ -30,6 +30,8 @@
 
 ## Initial Network Topology
 
+![Topology Graph](Capture1_graph.svg)
+
 ```text
 id:15 rloc16:0x3c00 ext-addr:e2f7ef32aa9ac474 ver:4 - me - leader - br
     3-links:{ 03 18 20 40 45 52 60 }

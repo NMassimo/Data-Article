@@ -14,7 +14,7 @@ It contains the raw captures, metadata, and ground truth used in the study. It a
   - capture metadata and device tables (`CaptureX_description.md`)
   - state-change logs (`CaptureX_log.csv`)
   - command logs (`CaptureX_output.csv`)
-  - topology snapshots
+  - topology snapshots (`CaptureX_graph.svg`)
 
 ## Topology Mapping
 
