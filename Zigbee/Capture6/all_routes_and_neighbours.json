@@ -3,7 +3,7 @@
     "routes": [
       {
         "destination": "0x62a4",
-        "next_hop": "0x62a4",
+        "next_hop": "0xa595",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
@@ -19,7 +19,7 @@
       },
       {
         "destination": "0x01c9",
-        "next_hop": "0x5193",
+        "next_hop": "0xa595",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
@@ -43,7 +43,7 @@
       },
       {
         "destination": "0x637c",
-        "next_hop": "0x5193",
+        "next_hop": "0x637c",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
@@ -51,15 +51,15 @@
       },
       {
         "destination": "0x6871",
-        "next_hop": "0x5193",
-        "status": "Active",
+        "next_hop": "0xfffe",
+        "status": "Discovery_Failed",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
         "destination": "0xfef4",
-        "next_hop": "0x5193",
+        "next_hop": "0x637c",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
@@ -84,7 +84,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 39
+        "lqi": 42
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -95,7 +95,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 37
+        "lqi": 44
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -106,7 +106,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 10
+        "lqi": 15
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -128,7 +128,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 93
+        "lqi": 91
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -139,7 +139,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 37
+        "lqi": 30
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -172,7 +172,7 @@
         "relationship": "Child",
         "permit_joining": "Unknown",
         "depth": 1,
-        "lqi": 22
+        "lqi": 6
       }
     ]
   },
@@ -188,7 +188,7 @@
       },
       {
         "destination": "0x01c9",
-        "next_hop": "0x01c9",
+        "next_hop": "0x637c",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
@@ -589,7 +589,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 0,
-        "lqi": 156
+        "lqi": 155
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -600,7 +600,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 140
+        "lqi": 141
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -611,7 +611,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 83
+        "lqi": 84
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -633,7 +633,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 9
+        "lqi": 0
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -655,7 +655,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 119
+        "lqi": 123
       }
     ]
   },
@@ -663,24 +663,24 @@
     "routes": [
       {
         "destination": "0x0000",
-        "next_hop": "0x5193",
+        "next_hop": "0x637c",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0x62a4",
+        "next_hop": "0x62a4",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0x01c9",
+        "next_hop": "0x01c9",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
@@ -1072,7 +1072,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 0,
-        "lqi": 79
+        "lqi": 68
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1083,7 +1083,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 86
+        "lqi": 81
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1094,7 +1094,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 75
+        "lqi": 107
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1116,7 +1116,7 @@
         "relationship": "Child",
         "permit_joining": "NotAccepting",
         "depth": 2,
-        "lqi": 125
+        "lqi": 156
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1127,7 +1127,7 @@
         "relationship": "Child",
         "permit_joining": "NotAccepting",
         "depth": 2,
-        "lqi": 114
+        "lqi": 97
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1138,7 +1138,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 52
+        "lqi": 72
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1149,7 +1149,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 73
+        "lqi": 76
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1160,7 +1160,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 64
+        "lqi": 60
       }
     ]
   },
@@ -1168,40 +1168,40 @@
     "routes": [
       {
         "destination": "0x0000",
-        "next_hop": "0x5193",
+        "next_hop": "0x0000",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0x62a4",
+        "next_hop": "0x62a4",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0x01c9",
+        "next_hop": "0x01c9",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0xfef4",
+        "next_hop": "0xb45f",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
       },
       {
-        "destination": "0x0000",
-        "next_hop": "0x0000",
-        "status": "Inactive",
+        "destination": "0x6871",
+        "next_hop": "0xb45f",
+        "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
@@ -1577,7 +1577,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 0,
-        "lqi": 85
+        "lqi": 88
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1588,7 +1588,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 124
+        "lqi": 120
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1599,7 +1599,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 121
+        "lqi": 124
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1610,7 +1610,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 115
+        "lqi": 151
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1621,7 +1621,7 @@
         "relationship": "Child",
         "permit_joining": "NotAccepting",
         "depth": 2,
-        "lqi": 188
+        "lqi": 184
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1632,7 +1632,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 55
+        "lqi": 50
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1643,7 +1643,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 125
+        "lqi": 128
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -1654,7 +1654,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 55
+        "lqi": 52
       }
     ]
   },
@@ -2071,7 +2071,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 0,
-        "lqi": 121
+        "lqi": 130
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2082,7 +2082,7 @@
         "relationship": "Child",
         "permit_joining": "NotAccepting",
         "depth": 2,
-        "lqi": 148
+        "lqi": 167
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2093,7 +2093,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 128
+        "lqi": 122
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2104,7 +2104,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 184
+        "lqi": 183
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2115,7 +2115,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 127
+        "lqi": 122
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2126,7 +2126,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 60
+        "lqi": 41
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2137,7 +2137,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 160
+        "lqi": 162
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2148,7 +2148,7 @@
         "relationship": "Sibling",
         "permit_joining": "Unknown",
         "depth": 15,
-        "lqi": 83
+        "lqi": 90
       }
     ]
   },
@@ -2158,14 +2158,6 @@
         "destination": "0x0000",
         "next_hop": "0x0000",
         "status": "Active",
-        "memory_constrained": false,
-        "many_to_one": false,
-        "route_record_required": false
-      },
-      {
-        "destination": "0x62a4",
-        "next_hop": "0x0000",
-        "status": "Discovery_Underway",
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
@@ -2214,7 +2206,7 @@
         "relationship": "Sibling",
         "permit_joining": "Accepting",
         "depth": 1,
-        "lqi": 20
+        "lqi": 10
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2231,9 +2223,9 @@
         "pan_id": "14:74:01:49:15:a9:ce:0a",
         "ieee": "40:4c:ca:ff:fe:57:6f:cc",
         "nwk": "0x3865",
-        "device_type": "Unknown",
+        "device_type": "Router",
         "rx_on_when_idle": "On",
-        "relationship": "NoneOfTheAbove",
+        "relationship": "Sibling",
         "permit_joining": "NotAccepting",
         "depth": 0,
         "lqi": 0
@@ -2249,14 +2241,6 @@
         "memory_constrained": false,
         "many_to_one": false,
         "route_record_required": false
-      },
-      {
-        "destination": "0x62a4",
-        "next_hop": "0x0000",
-        "status": "Discovery_Underway",
-        "memory_constrained": false,
-        "many_to_one": false,
-        "route_record_required": false
       }
     ],
     "neighbours": [
@@ -2280,7 +2264,7 @@
         "relationship": "Sibling",
         "permit_joining": "Accepting",
         "depth": 1,
-        "lqi": 25
+        "lqi": 30
       },
       {
         "pan_id": "14:74:01:49:15:a9:ce:0a",
@@ -2323,7 +2307,7 @@
         "rx_on_when_idle": "On",
         "relationship": "Sibling",
         "permit_joining": "NotAccepting",
-        "depth": 1,
+        "depth": 0,
         "lqi": 0
       },
       {
@@ -2342,16 +2326,8 @@
   "40:4c:ca:ff:fe:57:6b:7c": {
     "routes": [
       {
-        "destination": "0x62a4",
-        "next_hop": "0x0000",
-        "status": "Discovery_Underway",
-        "memory_constrained": false,
-        "many_to_one": false,
-        "route_record_required": false
-      },
-      {
         "destination": "0x0000",
-        "next_hop": "0x637c",
+        "next_hop": "0x0000",
         "status": "Active",
         "memory_constrained": false,
         "many_to_one": false,
